@@ -18,17 +18,17 @@
 
  **Basic structure of Jenkins Shared Libraries**
  
-  MySharedLibrary/             # Root directory of the Shared Library
-  vars/                      # Directory containing Groovy files defining custom steps or functions
-    myFunction.groovy        # Example Groovy file defining a custom function
-  src/                       # (Optional) Directory for additional source code or utility classes
-  resources/                 # (Optional) Directory for non-Groovy resources
-  README.md                  # Documentation or usage guidelines for the Shared Library
-  vars/                      # Directory containing Groovy files defining custom steps or functions
-    myFunction.groovy        # Example Groovy file defining a custom function
-  src/                       # (Optional) Directory for additional source code or utility classes
-  resources/                 # (Optional) Directory for non-Groovy resources
-  Jenkinsfile                # (Optional) Jenkinsfile for Pipeline Unit testing
+  MySharedLibrary/             # Root directory of the Shared Library<br>
+  vars/                      # Directory containing Groovy files defining custom steps or functions<br>
+    myFunction.groovy        # Example Groovy file defining a custom function<br>
+  src/                       # (Optional) Directory for additional source code or utility classes<br>
+  resources/                 # (Optional) Directory for non-Groovy resources<br>
+  README.md                  # Documentation or usage guidelines for the Shared Library<br>
+  vars/                      # Directory containing Groovy files defining custom steps or functions<br>
+    myFunction.groovy        # Example Groovy file defining a custom function<br>
+  src/                       # (Optional) Directory for additional source code or utility classes<br>
+  resources/                 # (Optional) Directory for non-Groovy resources<br>
+  Jenkinsfile                # (Optional) Jenkinsfile for Pipeline Unit testing<br>
 
 **How to configure Jenkins Controller to access/integrate shared libraries**
 
