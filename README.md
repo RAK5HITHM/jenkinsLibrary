@@ -6,15 +6,15 @@
 
 **Features of Jenkins Shared Libraries**
 
- 1.Reusable Code
- 2.Organization and Structuring
- 3.Custom Steps and Functions
- 4.Version Contro
- 5.Centralized Maintenance
- 6.Secure Access Control
- 7.Parameterized Functions
- 8.Documentation and Usage Guidelines
- 9.Integration with Pipeline DSL
+ 1.Reusable Code<br>
+ 2.Organization and Structuring<br>
+ 3.Custom Steps and Functions<br>
+ 4.Version Contro<br>
+ 5.Centralized Maintenance<br>
+ 6.Secure Access Control<br>
+ 7.Parameterized Functions<br>
+ 8.Documentation and Usage Guidelines<br>
+ 9.Integration with Pipeline DSL<br>
 
  **Basic structure of Jenkins Shared Libraries**
  
@@ -32,12 +32,12 @@
 
 **How to configure Jenkins Controller to access/integrate shared libraries**
 
- 1.Open Jenkins and navigate to the Jenkins dashboard.
- 2.Click on Manage Jenkins on the left-hand side.
- 3.Select Configure System.
- 4.Scroll down to the Global Pipeline Libraries section.
- 5.Add the Shared Library
- 6.Always remember the name given to the shared library.
+ 1.Open Jenkins and navigate to the Jenkins dashboard.<br>
+ 2.Click on Manage Jenkins on the left-hand side.<br>
+ 3.Select Configure System.<br>
+ 4.Scroll down to the Global Pipeline Libraries section.<br>
+ 5.Add the Shared Library<br>
+ 6.Always remember the name given to the shared library.<br>
 
 **How to use the shared library in the pipeline**
 
